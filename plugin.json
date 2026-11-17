@@ -1,0 +1,14 @@
+{
+  "name": "rednote-post-manager",
+  "displayName": "小红书全规则帖子与个人售卖管家",
+  "version": "1.1.0",
+  "description": "严格对齐小红书《社区公约2.0》、AIGC标识与CQS规范、虚假种草治理、全品类个人店禁限售红线（三品一械/美妆食品/财经/电子资源）的运营 Skill。内置 post/shop 双模式合规审计脚本及去AI味/视觉规范。",
+  "author": "Jayanyixing",
+  "repository": "https://github.com/Jayanyixing/rednote-post-manager",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "帮我用小红书《社区公约2.0》和全平台规则检查这篇帖子文案和配图有没有 AI 味、导流或违规宣传风险",
+    "我要在小红书个人店上架一个商品，帮我核查类目准入资格并改写合规的商品标题、详情和 1:1 主图",
+    "帮我写一篇不带 AI 味且可以合规挂车带货的小红书笔记，同时通过 post 和 shop 双模式脚本校验"
+  ]
+}
